@@ -3,7 +3,8 @@ import { NavLink,Link } from 'react-router-dom'
 function Footer() {
   return (
     <>
-        <div className='flex justify-between mt-10'>
+        <hr/>
+        <div className='flex justify-between mt-10 shadow-lg rounded-t-xl'>
             <div>
                 <img className='w-1/2' src="https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1720224000&semt=sph" alt="logo" />
             </div>
