@@ -3,7 +3,7 @@ import { Link,NavLink } from 'react-router-dom'
 function Header() {
   return (
     <>
-        <nav className='flex justify-between w-screen shadow-xl shadow-slate-700 align-baseline rounded-b-xl'>
+        <nav className='flex justify-between shadow-xl shadow-slate-700 align-baseline rounded-br-2xl rounded-bl-2xl'>
             <div className='max-w-20'>
                 <img src="https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1720224000&semt=sph" alt="Logo"/>
             </div>

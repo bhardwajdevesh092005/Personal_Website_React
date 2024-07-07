@@ -13,6 +13,14 @@ function Home() {
                 </p>
             </div>
         </div>
+        <div className='mt-10 flex justify-center'>
+            <div className='w-1/4'>
+                <img src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="" />
+            </div>
+            <div className='w-1/5 font-light text-slate-500 flex align-middle'>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quae quibusdam cum perspiciatis explicabo tempore nulla magni asperiores placeat eveniet molestiae, in magnam ducimus debitis, voluptatibus quam voluptate? Vero quo architecto impedit enim facilis explicabo fugiat tempora obcaecati vitae dicta?</p>
+            </div>
+        </div>
     </>
   )
 }
